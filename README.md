@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot attached](./images/Screenshot.jpg)
 
 ### Links
-- Live Site URL: 
+- Live Site URL:https://adityas-github.github.io/QR-code-component-frontend-devloper/
 
 ## My process
 
