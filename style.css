@@ -35,12 +35,12 @@ body{
     width: 90%;
     text-align: center;
 }
-.bottom h2{
+.bottom h1{
     font-family: 'Outfit', sans-serif;
     font-size: 1.6vw;
     font-weight: 700;
 }
-.bottom h4{
+.bottom h3{
     font-family: 'Outfit', sans-serif;
     font-size: 1.1vw;
     font-weight: 400;
@@ -73,13 +73,13 @@ body{
         text-align: center;
         width: 89%;
     }
-    .bottom h2{
+    .bottom h1{
         font-size: 3.2vh;
         width: 90%;
         margin-top: 20px;
         margin-left: 20px;
     }
-    .bottom h4{
+    .bottom h3{
         font-size: 2.4vh;
         font-weight: 450;
     }
